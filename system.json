@@ -19,7 +19,7 @@
     "languages": [],
     "gridDistance": 1,
     "gridUnits": "m",
-    "primaryTokenAttribute": "health Point",
+    "primaryTokenAttribute": "Health Point",
     "secondaryTokenAttribute": "Focus Point",
     "manifest": "https://raw.githubusercontent.com/Papayou52/Dark-Souls-RPG/main/system.json"
 }
