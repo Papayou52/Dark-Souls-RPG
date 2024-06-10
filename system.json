@@ -1,27 +1,29 @@
 {
-"id":"Dark souls",
-"title":"Dark souls RPG",
-"description":"Dark Souls rpg system",
-"author": "papayou",
-"version": 0.01,
-"compatibility": {
+
+    "id":"Dark souls",
+    "title":"Dark souls RPG",
+    "description":"Dark Souls rpg system",
+    "author": "papayou",
+    "version": 0.01,
+    "compatibility": {
         "minimum": "11",
         "verified": "11.315"
-    },
-"esmodules": [
+        },
+    "esmodules": [
     "DS.js"
-],
-"styles":[
-    "DS.css"
-],
-"pack": [
+    ],
+    "styles":[
+        "DS.css"
+    ],
+    "pack": [
 
-],
-"languages": [
+    ],
+    "languages": [
 
-],
-"gridDistance": 1,
-"gridUnits": "m",
-"primaryTokenAttribute":"health Point",
-"secondaryTokenAttrubute":"Focus Point",
+    ],
+    "gridDistance": 1,
+    "gridUnits": "m",
+    "primaryTokenAttribute":"health Point",
+    "secondaryTokenAttrubute":"Focus Point",
+
 }
