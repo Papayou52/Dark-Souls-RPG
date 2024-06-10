@@ -1,0 +1,27 @@
+{
+"id":"Dark souls",
+"title":"Dark souls RPG",
+"description":"Dark Souls rpg system",
+"author": "papayou",
+"version": 0.01,
+"compatibility": {
+        "minimum": "11",
+        "verified": "11.315"
+    },
+"esmodules": [
+    "DS.js"
+],
+"styles":[
+    "DS.css"
+],
+"pack": [
+
+],
+"languages": [
+
+],
+"gridDistance": 1,
+"gridUnits": "m",
+"primaryTokenAttribute":"health Point",
+"secondaryTokenAttrubute":"Focus Point",
+}
